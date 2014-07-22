@@ -10,7 +10,7 @@ namespace GitDemo2
     {
         static void Main(string[] args)
         {
-            // first change
+            // second change
         }
     }
 }
